@@ -1,2 +1,3 @@
 git pull
-本地修改提交到远程库
+
+pull to origin
